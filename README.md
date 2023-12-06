@@ -8,12 +8,12 @@
   </a>
 </div>
 
-<h2>projects</h2>
+<h2>Projects:</h2>
 
 - [Сервис](https://github.com/Gry-95/service_app) для работы с тарифными планами и сервисами с использованием DRF и Postgres, Docker
 - [Django-сервис](https://github.com/borrrv/friends_service) для ведения блога статей с использованием DRF
 
-<h2>Технологии</h2>
+<h2>Technologies:</h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
