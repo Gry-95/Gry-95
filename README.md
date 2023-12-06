@@ -11,7 +11,7 @@
 <h2>Projects:</h2>
 
 - [Сервис](https://github.com/Gry-95/service_app) для работы с тарифными планами и сервисами с использованием DRF и Postgres, Docker
-- [Django-сервис]([https://github.com/borrrv/friends_servic](https://github.com/Gry-95/django_popular_women)e) для ведения блога статей с использованием DRF
+- [Django-сервис]([[https://github.com/Gry-95/django_popular_women](https://github.com/Gry-95/django_popular_women)])) для ведения блога статей с использованием DRF
 
 <h2>Technologies:</h2>
 <div align="center">
