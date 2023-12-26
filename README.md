@@ -10,7 +10,7 @@
 
 <h2>Projects:</h2>
 
-- [FastAPI](https://github.com/Gry-95/API_for_hotel_booking) API для бронирования отелей
+- [FastAPI - сервис](https://github.com/Gry-95/API_for_hotel_booking) API для бронирования отелей
 - [Сервис](https://github.com/Gry-95/service_app) для работы с тарифными планами и сервисами с использованием DRF и Postgres, Docker/Docker-compose, Redis, Celery
 - [Django-сервис](https://github.com/Gry-95/popular_people/tree/master) для ведения блога статей с использованием DRF
 
