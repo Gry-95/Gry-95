@@ -11,8 +11,9 @@
 <h2>Projects:</h2>
 
 - [FastAPI - сервис](https://github.com/Gry-95/API_for_hotel_booking) API для бронирования отелей
-- [Сервис](https://github.com/Gry-95/service_app) для работы с тарифными планами и сервисами с использованием DRF и Postgres, Docker/Docker-compose, Redis, Celery
-- [Django-сервис](https://github.com/Gry-95/popular_people/tree/master) для ведения блога статей с использованием DRF
+- [Django - store](https://github.com/Gry-95/django_store) Готовый магазин (настроена админка, регистрация, авторизация, добавление товаров в корзину, оплата реализована с помощью сервиса Stripe)
+- [Сервис](https://github.com/Gry-95/service_app) для работы с тарифными планами и сервисами с использованием DRF, Postgres, Docker/Docker-compose, Redis, Celery
+- [Django-proj](https://github.com/Gry-95/popular_people/) для ведения блога статей с использованием DRF
 
 <h2>Technologies:</h2>
 <div align="center">
